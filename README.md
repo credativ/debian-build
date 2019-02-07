@@ -7,6 +7,7 @@ In our case installing the dependency in a fresh Debian container can take signi
 The following tags are supported at the moment.
 
 * stable / latest
+* buster
 * stretch
 * jessie
 * wheezy
